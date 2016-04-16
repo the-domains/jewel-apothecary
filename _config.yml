@@ -1,7 +1,7 @@
 name: Jewel Apothecary
 favicon: null
-layout_spectrum: 0.10176991601474583
-typography_spectrum: 0.988382495008409
+layout_spectrum: 0.24781
+typography_spectrum: 0.29084
 title: Preserving Your Memory
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#000000'
+    - '#9f9f9f'
+    - '#c7c7c7'
+    - '#505050'
   brandStrength: 0.38962981989607215
   lightness: 0.08301727846264839
   saturation: 0.7380611856933683
